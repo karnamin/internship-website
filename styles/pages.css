@@ -77,3 +77,7 @@ main {
     border: none;
     cursor: pointer;
 }
+
+.boldText {
+    font-weight: 600;
+}
