@@ -81,3 +81,16 @@ main {
 .boldText {
     font-weight: 600;
 }
+
+.secondary-heading {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.channel-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
