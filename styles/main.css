@@ -110,3 +110,11 @@ body {
 .maps-link a:hover {
     color: white;
 }
+
+#map {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    margin-bottom: 5rem;
+}
