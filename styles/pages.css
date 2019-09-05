@@ -98,3 +98,10 @@ main {
 .enquiry-form {
     margin-bottom: 2rem;
 }
+
+.catalogue {
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

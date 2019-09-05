@@ -115,6 +115,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid black;
+
     margin-bottom: 5rem;
+}
+
+#map p {
+    border: 1px solid black;
 }
